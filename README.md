@@ -169,7 +169,7 @@ Alternating theme: remove day-mode / night-mode from the classname and uncomment
 						
 						
 <!--About Me section image-->						
-<img class="tilter__image" src="https://i.imgur.com/At00bdI.jpg"data-focus-x=".5" data-focus-y="0" />
+<img class="tilter__image" src="https://i.imgur.com/At00bdI.jpeg"data-focus-x=".5" data-focus-y="0" />
 <!--/About Me section image-->
 
 
