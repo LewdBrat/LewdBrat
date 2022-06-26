@@ -114,7 +114,7 @@ h1, h2, .tilter__title {font-family:'Playfair Display',serif;}
 
 /*FAQ background*/
 article.faqbg {
-    background-image: url('https://i.imgur.com/iUB8Q5A.jpg');
+    background-image: url('https://c.tenor.com/tf2dHIrkwiMAAAAi/cute.gif');
 }
 
 
