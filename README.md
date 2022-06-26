@@ -169,7 +169,7 @@ Alternating theme: remove day-mode / night-mode from the classname and uncomment
 						
 						
 <!--About Me section image-->						
-<img class="tilter__image" src="https://i.imgur.com/At00bdI.jpeg"data-focus-x=".5" data-focus-y="0" />
+<img class="tilter__image" src="https://i.imgur.com/At00bdI.jpeg" data-focus-y="0" />
 <!--/About Me section image-->
 
 
@@ -213,6 +213,8 @@ I am a giant brat. I think I am lively and submissive, but can also be very self
 I didn't finish school.. I have a severe phobia of clowns I HATE THEM!
 
 I grew up in an upper class neighbourhood. My mom left my dad when I was young, I was brought by her mother.
+
+My favorite ppl here are caleb gio twilger and rikroom.
 </p>
 
 <!--to add more paragraphs: add one more set of <p></p> to add one moreline of quote <p class="abtqt"></p> -->
